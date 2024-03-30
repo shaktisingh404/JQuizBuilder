@@ -34,5 +34,13 @@ The Quiz Management System is a Java-based application designed to help users cr
 ## Contributing
 Contributions to the Quiz Management System are welcome! If you have any ideas for new features, enhancements, or bug fixes, feel free to submit a pull request.
 
+## Screenshots
+1. Login
+![Login page](img/Screenshot%202024-03-30%20113750.png)
+2. Create a User
+   ![Create a user](img/Screenshot%202024-03-30%20113803.png)
+
+3. Create a Quiz
+   ![create a quize](img/Screenshot%202024-03-30%20113818.png)
 
 
